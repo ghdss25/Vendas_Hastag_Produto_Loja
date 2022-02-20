@@ -94,26 +94,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
     Ordem dos Produtos com valores Unitários no Mês de Dezembro
     Ordem dos Produtos com valores Finais no Mês de Dezembro
 
-** Produto **
-
-    Total de Valor Unitário
-    Média de Valor Unitário
-    Mediana de Valor Unitário
-    Moda de Valor Unitário
-    Desvio Padrão Unitário
-    Variância de Valor Unitário
-
-    Total de Valor Final
-    Média de Valor Final
-    Mediana de Valor Final
-    Moda de Valor Final
-    Desvio Padrão de Valor Final
-    Variância de Valor Final
-
-    Indice de Vendas
-    Ordem dos Produtos com valores Unitários no Mês de Dezembro
-    Ordem dos Produtos com valores Finais no Mês de Dezembro
-
 ** Produto por Nome da Loja e Produto ***
 
     Total de Valor Unitário
